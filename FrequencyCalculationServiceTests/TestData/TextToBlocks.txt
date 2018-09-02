@@ -1,0 +1,7 @@
+Notepad++ was developed by Don Ho in September 2003.[6] The developer used JEXT (a Java-based text editor) at his company but, dissatisfied with its poor performance, he began to develop a text editor written in C++ with Scintilla.[6] He developed it in his spare time since the idea was rejected by his company.[6] Notepad++ was built as a Microsoft Windows application; the author considered, but rejected, the idea of using wxWidgets to port it to the Mac OS X and Unix platforms.[6]
+
+Notepad++ waswaswaswaswaswaswaswaswaswaswaswas first released on SourceForge on 25 November 2003, as a Windows-only application. It is based on the Scintilla editor component, and is written in C++ with only Win32 API calls using only the STL to increase performance and reduce program size.[7][8]
+
+In January 2010 the US government obliged US-based open source project hosts to deny access from Cuba, Iran, North Korea, Sudan, and Syria to comply with U.S. law.[9] As a response to what the developer felt was a violation of the free and open-source software (FOSS) philosophy, in June 2010 Notepad++ moved out of US territorial jurisdiction by releasing a version on TuxFamily, in France. Some community services of Notepad++ (Such as the forums and bug tracker) remained on Sourceforge until 2015 when Notepad++ left Sourceforge completely.[10][11][12]
+
+epad++ left Sourceforge completely with the forums being moved to NodeBB and the bug tracker to GitHub.[12][17]

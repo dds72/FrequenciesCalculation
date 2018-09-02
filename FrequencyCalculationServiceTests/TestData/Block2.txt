@@ -1,0 +1,3 @@
+swaswaswaswaswas first released on SourceForge on 25 November 2003, as a Windows-only application. It is based on the Scintilla editor component, and is written in C++ with only Win32 API calls using only the STL to increase performance and reduce program size.[7][8]
+
+In January 2010 the US government obliged US-based open source project hosts to deny access from Cuba, Iran, North Korea, Sudan, and Syria to comply with U.S. law.[9] As a response to what the developer felt was a violation of the 

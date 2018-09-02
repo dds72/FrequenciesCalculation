@@ -1,0 +1,3 @@
+Notepad++ was developed by Don Ho in September 2003.[6] The developer used JEXT (a Java-based text editor) at his company but, dissatisfied with its poor performance, he began to develop a text editor written in C++ with Scintilla.[6] He developed it in his spare time since the idea was rejected by his company.[6] Notepad++ was built as a Microsoft Windows application; the author considered, but rejected, the idea of using wxWidgets to port it to the Mac OS X and Unix platforms.[6]
+
+Notepad++ waswaswaswaswaswaswa

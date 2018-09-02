@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyDictionary", "FrequencyDictionary\FrequencyDictionary.csproj", "{8D059BA0-1CF7-4D69-A41E-C0E6D1D62C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCalculationService", "FrequencyCalculationService\FrequencyCalculationService.csproj", "{10DAF744-86F5-4FEF-92BF-328B11CB8B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCalculationServiceTests", "FrequencyCalculationServiceTests\FrequencyCalculationServiceTests.csproj", "{0FA5FA1C-0CCA-45B6-BDF7-7FA314DC449F}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D059BA0-1CF7-4D69-A41E-C0E6D1D62C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D059BA0-1CF7-4D69-A41E-C0E6D1D62C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D059BA0-1CF7-4D69-A41E-C0E6D1D62C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D059BA0-1CF7-4D69-A41E-C0E6D1D62C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DAF744-86F5-4FEF-92BF-328B11CB8B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DAF744-86F5-4FEF-92BF-328B11CB8B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DAF744-86F5-4FEF-92BF-328B11CB8B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DAF744-86F5-4FEF-92BF-328B11CB8B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA5FA1C-0CCA-45B6-BDF7-7FA314DC449F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA5FA1C-0CCA-45B6-BDF7-7FA314DC449F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA5FA1C-0CCA-45B6-BDF7-7FA314DC449F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA5FA1C-0CCA-45B6-BDF7-7FA314DC449F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FB0BAB-297D-4609-ACF5-7046DAE801F5}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
