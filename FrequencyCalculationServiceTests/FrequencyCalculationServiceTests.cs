@@ -40,7 +40,7 @@ namespace FrequencyCalculationServiceTests
                     new FrequencyCalculator(MaxWordLength));
             calculationService.RunCalculation();
 
-            Assert.AreEqual(80985, ((TestDataWriter)dataWriter).Data.Count);
+            Assert.AreEqual(80979, ((TestDataWriter)dataWriter).Data.Count);
         }
 
         /// <summary>
@@ -58,7 +58,7 @@ namespace FrequencyCalculationServiceTests
                     new FrequencyCalculator(MaxWordLength));
             calculationService.RunCalculationAsync().Wait();
 
-            Assert.AreEqual(80985, ((TestDataWriter)dataWriter).Data.Count);
+            Assert.AreEqual(80979, ((TestDataWriter)dataWriter).Data.Count);
         }
 
         /// <summary>
@@ -75,7 +75,7 @@ namespace FrequencyCalculationServiceTests
                     new FrequencyCalculatorWithUpdater(MaxWordLength));
             calculationService.RunCalculationAsync().Wait();
 
-            Assert.AreEqual(80985, ((TestDataWriter)dataWriter).Data.Count);
+            Assert.AreEqual(80979, ((TestDataWriter)dataWriter).Data.Count);
         }
     }
 }
