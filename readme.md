@@ -15,6 +15,11 @@
   * Only positive unit tests implemented.
   * Output frequencies dictionary is small enough to live in memory.
 
+## Building solution
+  
+  Visual Studio 2017 required for building solution.
+  Nuget packages should be restored before building solution.
+   
 ## Project structure
 
 Solution contains the following projects with classes:
